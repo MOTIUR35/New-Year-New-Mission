@@ -1,0 +1,122 @@
+header {
+    background-image: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    /* display: flex; */
+    background-position: center;
+
+    width: 1320px;
+    height: 600px;
+    margin: 50px 270px;
+    padding-top: 50px;
+}
+
+.new-year-title {
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+
+}
+
+.new-year {
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+   
+
+}
+
+.Party-Celebration {
+    color: #ffffff;
+    text-align: center;
+
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.off {
+    text-align: center;
+    color: red;
+}
+
+.all-categories {
+    text-align: center;
+}
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+div>h3 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+div>h2 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.new-year-pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+.Welcome-blog {
+    color: #ffffff;
+
+    margin: 100px;
+}
+
+.Welcome-title {
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.Welcome-background {
+    background-image: url(../resources/Vectorrr.png);
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 270px;
+
+}
+.Hotel{
+    padding-top: 10px;
+}
+.summary {
+
+    background-color: rgb(247, 222, 222);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    width: 1220px;
+    height: 460px;
+    margin: 50px 270px;
+    padding: 50px;
+    
+}
+span{
+    color: #F00;
+}
+#join-now{
+    width: 5px;
+    height: 10px;
+    background-color: #F00;
+    border-radius: 10px;
+
+}
