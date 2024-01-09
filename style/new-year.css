@@ -18,22 +18,24 @@ header {
 }
 
 .new-year {
-    color: #ffffff;
+    color: #f7f3f3;
     text-align: center;
     font-size: 50px;
     font-weight: 400;
-   
+    position: relative;
+    top: 50px;
+
 
 }
 
 .Party-Celebration {
-    color: #ffffff;
+    color: #dcdcdc;
     text-align: center;
 
     font-size: 120px;
-    font-style: normal;
-    font-weight: 900;
+    PO font-weight: 900;
     line-height: 95px;
+
 }
 
 .off {
@@ -95,28 +97,254 @@ div>h2 {
     margin: 50px 270px;
 
 }
-.Hotel{
+
+.Hotel {
     padding-top: 10px;
 }
+
 .summary {
 
     background-color: rgb(247, 222, 222);
     border-radius: 10px;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     width: 1220px;
     height: 460px;
     margin: 50px 270px;
     padding: 50px;
-    
+
 }
-span{
+
+.summary-Place {
+    position: relative;
+    top: 20px;
+}
+
+.summary-Time {
+    position: relative;
+    bottom: 20px;
+}
+
+span {
     color: #F00;
 }
-#join-now{
-    width: 5px;
-    height: 10px;
+
+#join-now {
+    color: #dcdcdc;
+    width: 100px;
+    height: 40px;
     background-color: #F00;
     border-radius: 10px;
+    border: 0;
+
+}
+
+.best-offer {
+    display: flex;
+
+    align-items: center;
+}
+
+.surcel-pic {
+    width: 300px;
+    height: 300px;
+    border: 10px solid red;
+    border-radius: 663px;
+    padding: 20px;
+
+}
+
+.section-one {
+    margin: 50px 270px;
+}
+
+.section-two {
+    width: 364;
+    height: 364;
+
+}
+
+.section-three {
+    margin: 50px 270px;
+}
+
+.offer {
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.Coming-Soon {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.details {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.year {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.detail {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.functional-blog {
+    text-align: center;
+}
+
+.functional {
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+    top: 29px;
+}
+
+.functional-blog {
+    margin: 50px 270px 120px 270px;
+
+}
+
+.sel {
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.sale-50 {
+    color: #070211;
+}
+
+.sel-details {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0px 100px;
+    position: relative;
+    bottom: 30px;
+}
+
+.background {
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0px 270px;
+    position: relative;
+
+
+}
+
+.fifty {
+    position: relative;
+    right: 180px;
+    bottom: 280px;
+}
+
+.Rectangle {
+    position: relative;
+    left: 401px;
+    bottom: 225px;
+
+}
+
+.Group {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 50px;
+}
+
+.section-gift {
+    margin: 50px;
+    margin-left: 270px;
+
+}
+
+.gift {
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+    top: 30px;
+}
+
+.gift-Portfolio {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.gift-details {
+
+    width: 896px;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    bottom: 30px;
+}
+
+.products {
+    margin: 50px 270px;
+
+}
+
+.sources {
+    margin: 10px;
+}
+
+.Subscribe-blog {
+    margin: 50px 270px;
+    border: 2px solid rgb(255, 212, 212);
+    background-color: rgb(247, 222, 222);
+    height: 616px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    padding-top: 150px;
+}
+
+.Subscribe-title {
+    font-size: 48PX;
+    font-weight: 900;
+}
+
+.Subscribe-details {
+    width: 896px;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    left: 225px;
+
+}
+
+.search {
+    font: 24px;
+    width: 500px;
+    height: 50px;
+    padding: 5px;
+    border: 0;
+}
+.Subscribe-btn{
+    font-size: 20px;
+    color: #dcdcdc;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #F00;
+    width: 150px;
+    height: 57px;
+    position: relative;
+    right: 5px;
+    top: 2px;
+    border: 0;
+
 
 }
